@@ -122,3 +122,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+plot_comparison_combine.ipynb
+
+plot_comparison_over_sampling.ipynb
+
+adult.ipynb
+
+adult2.csv
